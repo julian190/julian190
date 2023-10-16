@@ -29,6 +29,6 @@ CompTIA A+ CE (2020) <br>
 Service Delivery Manager at Alfa Projects and Services, Qatar (2022) <br>
 
 🤝 Let's Connect! <br>
-If you're intrigued by collaboration, need guidance, or simply wish to chat, don't hesitate to reach out!(<br>)
+If you're intrigued by collaboration, need guidance, or simply wish to chat, don't hesitate to reach out!<br>
 
 💼 [LinkedIn](https://www.linkedin.com/in/julian-metias-4152a619b/)
