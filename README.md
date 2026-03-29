@@ -1,34 +1,41 @@
+# Hello, I'm Julian Metias 👋
 
-Hello, there! 👋 <br>
-I'm a Chartered ICT professional with a deep-seated passion for Microsoft technologies. My journey stretches from roles as a .Net Support Developer in the picturesque landscapes of New Zealand to pivotal technical roles in the vibrant tech arena of Qatar.
+I am a **Chartered ICT Professional** and **Software Developer** transitioning into **Data Engineering**. Currently based in New Zealand, I bridge the gap between complex software support and scalable data solutions. 
 
-🚀 Skills <br>
-Languages: JavaScript, Python, C# <br>
-Frameworks: ASP.NET, React JS <br>
-Databases: SQL Server <br>
-Web Technologies: HTML5, CSS3, jQuery, Bootstrap <br>
-📚 Education & Certifications<br>
-Udacity <br>
-Full Stack Development Track (2021) <br>
-Android Developer Track (2018) <br>
-Advanced Web Development (2020) <br>
-Web Development Professional (2020) <br>
-Web Development Track, Egypt fwd Initiative (2020) <br>
-Coursera <br>
-Google IT Support, Authorized by Google (2020) <br>
-Web Applications for Everybody, Authorized by University of Michigan (2020) <br>
-Python for Everybody, Authorized by University of Michigan (2020) <br>
-IT Professionals New Zealand <br>
-Chartered IT Professional (2022) <br>
-Full Member (2021) <br>
-Other Certifications <br>
-ITIL® Foundation Certificate in IT Service Management (2022) <br>
-CompTIA A+ CE (2020) <br>
-💼 Work Experience <br>
-.Net Support Developer at Native Software, New Zealand (2022 - Present) <br>
-Service Delivery Manager at Alfa Projects and Services, Qatar (2022) <br>
+With a background in .NET, SQL Server, and Business Analysis, I am now focused on building robust data pipelines and implementing the Modern Data Stack.
 
-🤝 Let's Connect! <br>
-If you're intrigued by collaboration, need guidance, or simply wish to chat, don't hesitate to reach out!<br>
+---
 
-💼 [LinkedIn](https://www.linkedin.com/in/julian-metias-4152a619b/)
+### 🛠 My Data Engineering Tech Stack
+* **Languages:** Python (Pandas, PySpark), SQL (T-SQL, Spark SQL), C#
+* **Data Platforms:** Databricks, Microsoft SQL Server
+* **Architecture:** Medallion Architecture (Bronze, Silver, Gold), ETL/ELT Pipelines
+* **Cloud & DevOps:** Azure environment, Git, Docker
+
+---
+
+### 🚀 Featured Data Projects
+* **[nz-fuel-food-correlation-pipeline]** - An end-to-end data pipeline using **PySpark** and **Databricks** to correlate fuel prices with market indices. Implemented using **Medallion Architecture**.
+
+---
+
+### 💼 Professional Journey
+* **Support Developer** | Native Software, NZ (2022 - Present)
+    * Optimizing .NET applications and managing complex SQL Server databases.
+* **IT Service Delivery Manager** | Alfa Projects, Qatar
+    * Leading technical teams and managing high-stakes IT service delivery.
+
+---
+
+### 📚 Education & Certifications
+* **Chartered IT Professional (CITP)** | IT Professionals NZ
+* **Data Engineering Specialization** (In Progress) - Focused on Databricks & Spark
+* **Python for Everybody Specialization** | University of Michigan
+* **Google IT Support Professional Certificate**
+
+---
+
+### 🤝 Let's Connect
+I'm always open to discussing Data Engineering or interesting Python projects.
+
+[LinkedIn](https://www.linkedin.com/in/julian-metias-4152a619b) | [Website](http://jmetias.nz/)
