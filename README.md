@@ -21,7 +21,7 @@ Python · SQL · PostgreSQL · dbt · Apache Airflow · Docker · C#/.NET · SQL
 ### 💼 Professional Journey
 * **Support Developer** | Native Software, NZ (2022 - Present)
     * Maintain and improve data synchronisation between ERP systems and e-commerce websites using C# and SQL Server
-    * Diagnose and fix production issues, and deliver new features for client integrations
+    * Diagnose and fix production issues, and deliver new features for customers.
 * **IT Service Delivery Manager** | Alfa Projects, Qatar
     * Leading technical teams and managing high-stakes IT service delivery.
 
