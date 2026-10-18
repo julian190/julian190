@@ -1,21 +1,25 @@
 # Hello, I'm Julian Metias 👋
 
-I am a **Chartered ICT Professional** and **Software Developer** transitioning into **Data Engineering**. Currently based in New Zealand, I bridge the gap between complex software support and scalable data solutions. 
+Software developer based in Hamilton, New Zealand, with ~15 years across
+C#/.NET and SQL Server. I build data pipelines end to end: from raw API and
+file sources through to tested, analytics-ready tables.
 
-With a background in .NET, SQL Server, and Business Analysis, I am now focused on building robust data pipelines and implementing the Modern Data Stack.
-
----
-
-### 🛠 My Data Engineering Tech Stack
-* **Languages:** Python (Pandas, PySpark), SQL (T-SQL, Spark SQL), C#
-* **Data Platforms:** Databricks, Microsoft SQL Server
-* **Architecture:** Medallion Architecture (Bronze, Silver, Gold), ETL/ELT Pipelines
-* **Cloud & DevOps:** Azure environment, Git, Docker
+## What I work with
+Python · SQL · PostgreSQL · dbt · Apache Airflow · Docker · C#/.NET · SQL Server
 
 ---
 
-### 🚀 Featured Data Projects
-* **[nz-fuel-food-correlation-pipeline]** - An end-to-end data pipeline using **PySpark** and **Databricks** to correlate fuel prices with market indices. Implemented using **Medallion Architecture**.
+
+---
+
+| Project | What it demonstrates |
+|---|---|
+| [NZTrafficCrashData]([link](https://github.com/julian190/nz-fuel-food-correlation-pipeline)) | CSV ingestion → PostgreSQL → dbt models and tests → Airflow, all in Docker |
+| [crypto-pipeline]([link](https://github.com/julian190/crypto-pipeline)) | Live API ingestion every 5 minutes, append-only raw history, dbt staging and marts |
+| [NZTrafficCrashDataSnowFlake]([link](https://github.com/julian190/NZTrafficCrashDataSnowFlake)) | The same crash pipeline ported to Snowflake, showing platform portability |
+
+## Also
+[dbt-jaffle-shop]([link](https://github.com/julian190/dbt-jaffle-shop)): dbt models, macros and tests on Databricks
 
 ---
 
