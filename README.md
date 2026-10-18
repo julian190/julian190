@@ -1,4 +1,4 @@
-# Hello, I'm Julian Metias 👋
+# Hello, I'm Julian Metias 
 
 Software developer based in Hamilton, New Zealand, with ~15 years across
 C#/.NET and SQL Server. I build data pipelines end to end: from raw API and
